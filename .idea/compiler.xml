@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="chaoshi_common" />
+        <module name="chaoshi_common_db" />
+        <module name="chaoshi_eureka" />
+        <module name="chaoshi_service_goods" />
+        <module name="chaoshi_service_goods_api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chaoshi_common" target="1.8" />
+      <module name="chaoshi_common_db" target="1.8" />
+      <module name="chaoshi_eureka" target="1.8" />
+      <module name="chaoshi_parent" target="1.8" />
+      <module name="chaoshi_service" target="1.8" />
+      <module name="chaoshi_service_api" target="1.8" />
+      <module name="chaoshi_service_goods" target="1.8" />
+      <module name="chaoshi_service_goods_api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="chaoshi_common" options="-parameters" />
+      <module name="chaoshi_common_db" options="-parameters" />
+      <module name="chaoshi_eureka" options="-parameters" />
+      <module name="chaoshi_parent" options="-parameters" />
+      <module name="chaoshi_service" options="-parameters" />
+      <module name="chaoshi_service_api" options="-parameters" />
+      <module name="chaoshi_service_goods" options="-parameters" />
+      <module name="chaoshi_service_goods_api" options="-parameters" />
+    </option>
+  </component>
+</project>

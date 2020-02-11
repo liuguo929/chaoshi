@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chaoshi_parent/chaoshi_common/chaoshi_common.iml" filepath="$PROJECT_DIR$/chaoshi_parent/chaoshi_common/chaoshi_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chaoshi_parent/chaoshi_common_db/chaoshi_common_db.iml" filepath="$PROJECT_DIR$/chaoshi_parent/chaoshi_common_db/chaoshi_common_db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chaoshi_parent/chaoshi_eureka/chaoshi_eureka.iml" filepath="$PROJECT_DIR$/chaoshi_parent/chaoshi_eureka/chaoshi_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chaoshi_parent/chaoshi_parent.iml" filepath="$PROJECT_DIR$/chaoshi_parent/chaoshi_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chaoshi_parent/chaoshi_service/chaoshi_service.iml" filepath="$PROJECT_DIR$/chaoshi_parent/chaoshi_service/chaoshi_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chaoshi_parent/chaoshi_service_api/chaoshi_service_api.iml" filepath="$PROJECT_DIR$/chaoshi_parent/chaoshi_service_api/chaoshi_service_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chaoshi_parent/chaoshi_service/chaoshi_service_goods/chaoshi_service_goods.iml" filepath="$PROJECT_DIR$/chaoshi_parent/chaoshi_service/chaoshi_service_goods/chaoshi_service_goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chaoshi_parent/chaoshi_service_api/chaoshi_service_goods_api/chaoshi_service_goods_api.iml" filepath="$PROJECT_DIR$/chaoshi_parent/chaoshi_service_api/chaoshi_service_goods_api/chaoshi_service_goods_api.iml" />
+    </modules>
+  </component>
+</project>
